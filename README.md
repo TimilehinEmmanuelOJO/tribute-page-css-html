@@ -1,12 +1,28 @@
 <DOCTYPE html>
 
 <style>
-   .div {
-    background-color: green;
+   h1 {text-align: center; font-size: 30px;
+   font-color: black; font-weight: bold;
+   }
+
+   h2 {text-align: center; font-size: 10px;
+   font-color: black; font-weight: normal;
+   }
+
+div {background-color:white;
+height:400px;
+
 }
 figcaption {
-    text-align: center;
+    text-align: justify;
+     font-size: 1; 
+     font-weight: normal; 
+     font-color: pink;
 }
+head {text-align: justify;
+      
+}
+
 </style>
 
 
@@ -16,12 +32,12 @@ figcaption {
 <h1> Dr Norman Borlaug </h1>
 <h2>The Man who saved a Billion Lives</h2>
 
-
+<div>
 <figure>
 <img src="https://images.npo.nl/header/2560x1440/991972.jpg" alt= "timi chilling">
 <figcaption>Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger. </figcaption>
 </figure>
-</header>  
+</div> 
 
 <body>
 <head>Here's a time line of Dr. Borlaug's life:</head>
@@ -46,6 +62,13 @@ figcaption {
 
 </UL>
 </body>
+
+<footer>
+
+    "Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."
+    -- Indian Prime Minister Manmohan Singh 
+
+</footer>
 
 
 </html>
