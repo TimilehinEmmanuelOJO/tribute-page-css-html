@@ -2,15 +2,16 @@
 
 <style>
    h1 {text-align: center; font-size: 30px;
-   font-color: black; font-weight: bold;
+    font-weight: bold;
    }
 
    h2 {text-align: center; font-size: 10px;
-   font-color: black; font-weight: normal;
+    font-weight: normal;
    }
 
 div {background-color:white;
 height:400px;
+width:1200;
 
 }
 figcaption {
@@ -22,6 +23,7 @@ figcaption {
 head {text-align: justify;
       
 }
+p{text-align: center;}
 
 </style>
 
@@ -68,7 +70,10 @@ head {text-align: justify;
     "Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."
     -- Indian Prime Minister Manmohan Singh 
 
+<p>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug"> Wikipedia entry. </a>
+</p>
 </footer>
 
 
 </html>
+
