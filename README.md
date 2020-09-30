@@ -1,7 +1,7 @@
 <DOCTYPE html>
 
 <style>
-   h1 {text-align: center; font-size: 30px;
+   h1 {text-align: center; font-size: 30px;dddd
     font-weight: bold;
    }
 
