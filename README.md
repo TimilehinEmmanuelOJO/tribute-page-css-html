@@ -1,19 +1,7 @@
 <DOCTYPE html>
 <html>
 
-<style>
 
-
-  #main {text-align: center; font-size:40px; line-height: 3px; font-weight: bold;}
-  #title { text-align: center; font-size:15px; line-height: 3;}
-  #img-div{background-color:white;}
-  #image{ }
-  #img-caption{text-align: center; font-size:15px; line-height: 3; color:black;}
-  #tribute-info{text-align: center; font-size:20px; font-weight:bold; line-height:6;}
-  #tribute-story{text-align: center; font-size:15px; font-weight:normal; line-height:1;  white-space:pre; line-height: 1.5}
-  #attibute-link{}
-
-</style>
 
 
 
